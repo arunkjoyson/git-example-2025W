@@ -7,13 +7,12 @@ Use ## to create Header 2
 _Surround your text with undescores_
 
 *Stars are bold*
+`code`
 
-'code'
-
-'''
+```
 
 this is a code block
 
-'''
+```
 
 
